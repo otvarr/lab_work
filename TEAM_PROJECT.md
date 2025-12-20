@@ -1,3 +1,6 @@
 "# Collaborative Project" 
 "This project is for collaboration between two developers" 
 "Main developer: otvarr" 
+"## Contribution by Colleague" 
+"Colleague name: [Имя коллеги]" 
+"Added: New collaboration feature" 
