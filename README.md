@@ -1,5 +1,2 @@
-"# Lab Work" 
-"# Fixed important bug" 
-"HOTFIX: Critical security update applied" 
-"FEATURE: New login system implemented" 
-"Main updated while feature was in development" 
+"# Team Collaboration Project" 
+"Main project for collaboration demo" 
